@@ -1,0 +1,99 @@
+body{
+    background-image: url(../Images/fondo3.jpg);
+    margin:0;
+    font-family: 'Press Start 2P', cursive;
+    background-repeat: no-repeat;
+    background-size: 100% ;
+    cursor: url("cursor.png"), default;
+    
+    
+}
+
+.nav ul{
+    
+    list-style-type: none;
+    margin 0;
+    padding: 0;
+    overflow: hidden;
+    position: fixed;
+   
+}
+
+.nav li {
+    display: inline-block;
+    
+    
+    
+}
+.nav li:first-child {
+    margin-left: 23%;
+    margin-top: 5%
+        
+    
+}
+.nav li a {
+    margin-top: 6%;
+    display: block;
+    color: yellow;
+    text-align: center;
+    padding: 15px 16px;
+    text-decoration: none;
+     
+}
+.nav li a:hover{
+    color: white;
+    background-color: firebrick;
+}
+section{
+    color: white;
+    padding: 1%;
+    margin-top: 5%;
+    margin-left: 10%;
+    border: 10px solid blue;
+    border-style: double;
+    width: 78%;
+    line-height: 200%;
+    background-color: darkgray;
+    
+}
+article{
+    margin-bottom: 15%
+}
+
+hr {
+  background-color: blue;
+  height: 1px;
+}
+
+h1{
+  color: black  
+}
+
+img{
+    height: 300px;
+    float: right;
+    margin: 0 0 10px 10px;
+}
+.container img{
+    width: 300px;
+	height: 423px; 
+    margin-bottom: 10%;  
+}
+.container:hover .capaAuxTexto{
+    opacity: 100;
+}
+.capaAuxTexto{
+	float: right;
+	width: 300px;
+	height: 423px;
+	margin-bottom: 10%; 
+    z-index: 10;
+    opacity: 0;
+    transition: all 1s;
+}
+
+
+
+
+
+
