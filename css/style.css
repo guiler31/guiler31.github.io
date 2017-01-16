@@ -1,3 +1,4 @@
+
 body {
 	margin: 0;
 	padding: 0;
@@ -9,6 +10,7 @@ body {
 
 h1, h2 {
 	font-weight: normal;
+    background-color:
 }
 
 p, ol, ul {
@@ -177,6 +179,7 @@ img.right {
 	font-size: 1.6em;
 	font-weight: bold;
 	color: #FFFFFF;
+    background-color:darkgreen;
 }
 
 /* Green Box */
@@ -188,6 +191,7 @@ img.right {
 .greenbox .title {
 	height: 60px;
 	background: url(images/img04.gif) no-repeat;
+    background-color: brown
 }
 
 .greenbox .title h1, .greenbox .title h2 {
@@ -232,6 +236,7 @@ img.right {
 	font-size: 1.6em;
 	font-weight: bold;
 	color: #FFFFFF;
+    background-color: blue
 }
 
 .two-columns .blue {
@@ -244,6 +249,9 @@ img.right {
 
 .two-columns .columnA, .two-columns .columnB {
 	width: 320px;
+    background-color: aliceblue;
+    height: 180px;
+    
 }
 
 .two-columns .columnA {
