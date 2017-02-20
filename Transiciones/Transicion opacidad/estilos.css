@@ -1,0 +1,52 @@
+body{
+	background-color:white;
+	color: black;
+	text-align:center;
+}
+
+img{
+	width: 300px;
+	height: 423px;
+}
+
+.container{
+	position: relative;
+	width: 300px;
+	height: 423px;	
+	margin: 10px auto 0 auto;
+}
+
+.capaAuxImagen{
+	position:relative;
+	width: 300px;
+	height: 423px;
+    margin: 0 auto;
+}
+.container:hover .capaAuxTexto{
+    opacity: 100;
+}
+.capaAuxTexto{
+	color:white;
+	background-color:navy;
+	width: 300px;
+	height: 423px;
+	margin: 0 auto 0 auto;
+	display:table;
+    position: relative;
+    top: -423px;
+    z-index: 10;
+    opacity: 0;
+    transition: all 1s;
+}
+
+.enlace{
+	font-size:45px;
+	display: table-cell;
+	text-align: center;
+	vertical-align: middle;
+	margin: 0;
+}
+
+.enlace a:link{
+	color:white;
+}

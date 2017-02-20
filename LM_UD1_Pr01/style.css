@@ -1,0 +1,96 @@
+h1{
+    text-align: center;
+    margin-left: 15%;
+    margin-right: 15%;
+    border-style: dashed;
+    border-radius: 3px;
+    border-color: crimson;
+    box-shadow: 2px 2px 2px grey;
+    padding: 5px;
+    padding-top: 0px;
+    background-color: floralwhite  
+}
+h1:hover{
+    -webkit-transform: rotateZ(10deg);
+    -ms-transform: rotateZ(10deg);
+    transform: rotateZ(10deg);
+}
+body{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 3px; 
+}
+section{
+    border-style: double;
+    border-color: black;
+    margin: 10px 35px 11px 35px;
+    height: 150px
+}
+#capa1 {
+    background-color: darkred;
+    text-align: right;
+    height: 50px;
+    width: 130px;
+    margin-left: 262px;
+    position: relative;
+    bottom: 4px;    
+}
+#capa2 {
+    background-color: darkolivegreen;
+    height: 50px;
+    width: 130px;
+    margin-left: 131px;
+    position: relative;
+    bottom: 4px;
+}
+.capa2{
+    border-style: solid;
+    border-color: darkgoldenrod;
+    text-align: center;
+    float:left;
+    height:42px;
+    width: 38px;
+    margin-bottom: 2px;
+    margin-top: 3px;
+    margin-left: 3px;
+    
+}
+#capa3{
+    background-color: darkkhaki;
+    height: 50px;
+    width: 130px;
+    position: relative;
+    bottom: 7px;
+}
+h2.c1{
+    position: relative;
+    top: 3px;
+    right:3px;
+}
+h2.c2{
+    position: relative;
+    top: 13px;
+}
+h2.c3 {
+  position: relative;
+    top: 40px;
+    left: 2px;
+}
+#capa1:hover{
+background-color: blue;   
+}
+#capa1:hover ~ #capa2,
+#capa1:hover + #capa3 {
+background-color: purple;   
+}
+
+#capa2:hover{
+    background-color: blue;
+}
+#capa2:hover + #capa3{
+
+background-color: purple;
+}
+
+#capa3:hover{
+background-color: blue;
+}

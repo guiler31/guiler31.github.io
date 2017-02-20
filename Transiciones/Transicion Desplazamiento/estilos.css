@@ -1,0 +1,63 @@
+body{
+	background-color:white;
+	color: black;
+	text-align:center;
+    cursor: url("../Images/cursor.png"), default;
+}
+
+img{
+	width: 300px;
+	height: 423px;
+}
+
+.container{
+	float: left
+	width: 300px;
+	height: 423px;	
+	
+    
+    transition: 2s;
+    overflow: hidden;
+    
+    
+}
+.container:hover .capaAuxTexto{
+    transition: 2s;
+    margin-top: -423px;
+  
+   
+}
+
+.capaAuxImagen{
+	position:relative;
+	width: 300px;
+	height: 423px;
+    
+    
+    
+}
+
+.capaAuxTexto{
+	color:white;
+	background-color:navy;
+	width: 300px;
+	height: 423px;
+    margin: top -423px;
+	margin: 0 auto 0 auto;
+	display:table;
+    position: relative;
+    
+   
+}
+
+.enlace{
+	font-size:45px;
+	display: table-cell;
+	text-align: center;
+	vertical-align: middle;
+	margin: 0;
+}
+
+.enlace a:link{
+	color:white;
+}

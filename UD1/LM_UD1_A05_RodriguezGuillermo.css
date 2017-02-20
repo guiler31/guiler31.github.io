@@ -1,0 +1,16 @@
+body{
+     background-color: lightsalmon;
+}
+h1{
+    color: floralwhite;
+    text-align: center;
+}
+table{
+    color: aquamarine;
+    font-style: italic;
+    background: url(https://www.u-tad.com/hacking-school/wp-content/uploads/2016/02/Logo-U-tad.jpg)
+}
+p {
+    font-family: verdana;
+    font-size: 20px;
+}

@@ -1,0 +1,24 @@
+<recetas>
+    <receta>
+	<nombre>Hamburguesa simple</nombre>
+	<numeroPersonas>4</numeroPersonas>
+	<precioPersona>3.50</precioPersona>
+	<ingredientes>
+		<ingrediente cantidad="4">Panecillo</ingrediente>
+		<ingrediente cantidad="250 gr.">Carne picada</ingrediente>
+		<ingrediente cantidad="4 lonchas">Queso sandwich</ingrediente>
+	</ingredientes>
+    </receta>
+    <receta>
+	<nombre>Hamburguesa completa</nombre>
+	<numero_personas>4</numero_personas>
+	<ingredientes>
+		<ingrediente cantidad="4">Panecillo</ingrediente>
+		<ingrediente cantidad="250 gr.">Carne picada</ingrediente>
+		<ingrediente cantidad="4 lonchas">Queso sandwich</ingrediente>
+        <ingrediente cantidad="100 gr">Bacon</ingrediente>
+		<ingrediente cantidad="2">Tomate</ingrediente>
+		<ingrediente cantidad="4 hojas">Lechuga</ingrediente>
+	</ingredientes>
+    </receta>
+</recetas>

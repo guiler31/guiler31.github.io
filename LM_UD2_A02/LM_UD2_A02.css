@@ -1,0 +1,22 @@
+header {
+    height: 200px;
+    color: white;
+    background-color: black;
+    
+}
+section{
+    background-color: white;
+    border-color: red;
+}
+div{
+    background-color: red;
+    height: 300px;
+    width: 300px;
+    display: inline-block;
+    
+}
+footer{
+    height: 200px;
+    color: white;
+    background-color: black;
+}

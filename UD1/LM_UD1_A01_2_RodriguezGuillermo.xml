@@ -1,0 +1,13 @@
+<Alumnos>
+	<Nombre> Gabriel </Nombre>
+	<Apellidos> Villar Costas </Apellidos>
+	<Nota> 8 </Nota>
+	<DNI> 75521800-T </DNI>
+	<Email> gabiviccos@gmail.com </Email>
+	
+	<Nombre> Victoria </Nombre>
+	<Apellidos> Monasterio </Apellidos>
+	<Nota> 10 </Nota>
+	<DNI> 76543239-j </DNI>
+	<Email> monasterio@hotmail.com </Email>
+</Alumnos>

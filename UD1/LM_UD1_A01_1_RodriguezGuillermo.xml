@@ -1,0 +1,25 @@
+<Actores>
+	<id> 51 </id>
+	<nombre> Elisabeth Shue </nombre>
+	<sexo> Mujer </sexo>
+	<fechaDeNacimiento> 17/10/1990 </fechaDeNacimiento>
+	<paginaWeb> en.wikipedia.org/wiki/Elisabeth Shue </paginaWeb>
+
+	<id> 52 </id>
+	<nombre> Val Kilmer </nombre>
+	<sexo> Hombre </sexo>
+	<fechaDeNacimiento> 31/12/1959 </fechaDeNacimiento>
+	<paginaWeb> www.valkilmer.com </paginaWeb>
+
+	<id> 53 </id>
+	<nombre> Peter Sellers </nombre>
+	<sexo> Hombre </sexo>
+	<fechaDeNacimiento> 13/11 </fechaDeNacimiento>
+	<paginaWeb> en.wikipedia.org/wiki/Elisabeth Shue </paginaWeb>
+	
+	<id> 139 </id>
+	<nombre> Jhonny Depp </nombre>
+	<sexo> Hombre </sexo>
+	<fechaDeNacimiento> 17/10/1965 </fechaDeNacimiento>
+	<paginaWeb> www.jhonnydeppweb.com </paginaWeb>
+</Actores>
