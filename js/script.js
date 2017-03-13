@@ -1,3 +1,4 @@
+
 var xmlhttp = new XMLHttpRequest();
 var url = "json/data.json";
 
