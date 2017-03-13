@@ -1,4 +1,4 @@
- [
+{"trabajos": [
   {
 "titulo": "Glosario",
 "fecha": "29/10/2016",
@@ -9,7 +9,8 @@
 "diponible": "si",
 "destacado": "no",
 "responsive": "no",
-"visualizacion recomendada": "desktop"
+"visualizacion recomendada": "desktop", 
+"imagen": "images/glosario.png"
       
   },
   {
@@ -22,7 +23,8 @@
 "diponible": "si",
 "destacado": "no",
 "responsive": "no",
-"visualizacion recomendada": "desktop"
+"visualizacion recomendada": "desktop",
+"imagen": "images/cv.png"
   },
   {
    "titulo": "Otagames",
@@ -34,10 +36,11 @@
 "diponible": "si",
 "destacado": "si",
 "responsive": "no",
-"visualizacion recomendada": "desktop"     
+"visualizacion recomendada": "desktop",
+"imagen": "images/otagames.png"
   }  
 ]
-
+}
 /* {
    "titulo": "",
 "fecha": "",
