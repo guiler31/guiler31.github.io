@@ -1,0 +1,53 @@
+ [
+  {
+"titulo": "Glosario",
+"fecha": "29/10/2016",
+"descripcion":"Glosario web de recetas",
+"source": "LMGlosario/LM_UD1_A06_Glosario_HTML.html",
+"miembros": "Guillermo Rodriguez Sainz",
+"asignatura": "Lenguaje de marcas",
+"diponible": "si",
+"destacado": "no",
+"responsive": "no",
+"visualizacion recomendada": "desktop"
+      
+  },
+  {
+"titulo": "Curriculum",
+"fecha": "",
+"descripcion":"Curriculum de prueba",
+"source": "CV/Home.html",
+"miembros": "Guillermo Rodriguez Sainz",
+"asignatura": "Lenguaje de marcas",
+"diponible": "si",
+"destacado": "no",
+"responsive": "no",
+"visualizacion recomendada": "desktop"
+  },
+  {
+   "titulo": "Otagames",
+"fecha": "26/11/2016",
+"descripcion":"Tienda web",
+"source": "",
+"miembros": "Alejandro quiros, Francisco Sanchez, Guillermo Rodriguez",
+"asignatura": "Lenguaje de marcas",
+"diponible": "si",
+"destacado": "si",
+"responsive": "no",
+"visualizacion recomendada": "desktop"     
+  }  
+]
+
+/* {
+   "titulo": "",
+"fecha": "",
+"descripcion":"",
+"source": "",
+"miembros": "",
+"asignatura": "",
+"diponible": "",
+"destacado": "",
+"responsive": "",
+"visualizacion recomendada": ""     
+  }
+*/
