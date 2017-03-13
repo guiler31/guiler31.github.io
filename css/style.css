@@ -32,7 +32,7 @@ body
     align-items: center;  
 }
 .navbar li:first-child{
-padding-right: 50px;
+padding-right: 20px;
 }
 .navbar li{
     display: inline-block;
