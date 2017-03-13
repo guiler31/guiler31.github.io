@@ -31,7 +31,9 @@ body
     justify-content:center;
     align-items: center;  
 }
-
+.navbar li:first-child{
+padding-right: 5%
+}
 .navbar li{
     display: inline-block;
     padding: 15px;
