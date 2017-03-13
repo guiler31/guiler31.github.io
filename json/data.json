@@ -1,4 +1,4 @@
-{"trabajos": [
+[
   {
 "titulo": "Glosario",
 "fecha": "29/10/2016",
@@ -41,16 +41,3 @@
   }  
 ]
 }
-/* {
-   "titulo": "",
-"fecha": "",
-"descripcion":"",
-"source": "",
-"miembros": "",
-"asignatura": "",
-"diponible": "",
-"destacado": "",
-"responsive": "",
-"visualizacion recomendada": ""     
-  }
-*/
