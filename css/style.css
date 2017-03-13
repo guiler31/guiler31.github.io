@@ -1,17 +1,24 @@
+html {
+  min-width: 100%;
+  min-height: 100%;
+ background-image: url("../images/fondomovil.jpg");
+  background-size: cover;
+}
+
 body
 {
     margin:0;
-    padding:0;
+    padding:8px;
     font-family: 'Raleway', sans-serif;
-    background-image: url("../images/fondomovil.jpg");
-    background-size: cover;
-    min-width: 100%;
+    width: 97%;
+    height: 100%;
+  
 }
 .container{
     padding-top: 80px;
     background-image: url("../images/fondocontainer.jpg");
     background-size: cover;
-    width: 97%;
+    width: 100%;
     margin: auto;
     height: 493px;
     position: relative;
@@ -33,20 +40,20 @@ body
 .navbar li:hover{
     text-decoration: underline;
 }
-.container .trimestre{
+.trimestre{
     display: flex;
     width: 97%;
     height: 40px;
     justify-content:center;
-    bottom: 100px;
     background-color:#660000;
     color: white;
     align-items: center;
-    position: fixed;
+    position:fixed;
+   top: 70
     
     
 }
-.container .trimestre li{
+.trimestre li{
     display: inline-block;
     width: 30%;
     text-align: center;
@@ -55,14 +62,14 @@ body
     
 }
 
-.container .trimestre li:first-child{
+.trimestre li:first-child{
     border-right: solid; 
 }
 
-.container .trimestre li:last-child{
+.trimestre li:last-child{
     border-left: solid; 
 }
-.container .trimestre li:hover{
+.trimestre li:hover{
     background-color: darkgrey;
 }
 .inicio img{
@@ -112,11 +119,3 @@ footer img{
 
 
 } 
-
-
-
-
-        
-        
-
-
